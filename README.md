@@ -10,8 +10,11 @@ I enjoy working with data to discover patterns, build dashboards, and communicat
 ## 🚀 About Me
 
 • Data Analyst with hands-on experience analyzing **100k+ datasets**
+
 • Skilled in building **interactive Power BI dashboards**
+
 • Strong background in **data cleaning, visualization, and analytics**
+
 • Experience working with operational and business datasets
 
 ---
